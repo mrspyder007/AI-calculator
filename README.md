@@ -1,1 +1,2 @@
-# Calculator-with-JavaScript-
+# AI CALCULATOR
+
